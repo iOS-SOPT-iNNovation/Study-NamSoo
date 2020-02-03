@@ -7,7 +7,10 @@
 
 </br>
 
-* 2차 과제
+* 2차 과제 - 프로젝트 개선사항
+  * pageController만들기
+    * CollectionView
+    * Button
 
 ### 2020.02.01 토 
 
