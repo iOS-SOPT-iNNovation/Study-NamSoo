@@ -7,10 +7,10 @@
 
 </br>
 
-* 2차 과제 - 프로젝트 개선사항
+* [2차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/2차-프로젝트%20개선%20사항.md) - 프로젝트 개선사항
   * pageController만들기
     * CollectionView
     * Button
 
-### 2020.02.01 토 
+### 2020.02.08 토 
 
