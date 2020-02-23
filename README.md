@@ -20,3 +20,10 @@
 	* 주제: 애니메이션
 
 </br>
+
+## 2020.02.22 토 - 3차 모임 ( 4차 과제 발표 )
+
+* [4차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/4차-프로젝트개선사항.md) - 프로젝트 개선사항
+	* 주제: 카테고리 나열 뷰
+
+</br>
