@@ -27,3 +27,10 @@
 	* 주제: 카테고리 나열 뷰
 
 </br>
+
+## 2020.02.29 토 - 4차 모임 ( 5차 과제 발표 )
+
+* [5차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/5차-발표자료.md) - 발표자료
+	* 주제: 내부DB
+
+</br>
