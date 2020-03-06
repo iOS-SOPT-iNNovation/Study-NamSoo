@@ -34,3 +34,11 @@
 	* 주제: 내부DB
 
 </br>
+
+## 2020.03.07 토 - 5차 모임 ( 6차 과제 발표 )
+
+* [6차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/6차-발표자료.md) - 발표자료
+	* 주제: TableView Bind Data
+
+</br>
+
