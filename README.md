@@ -42,3 +42,9 @@
 
 </br>
 
+## 2020.03.14 토 - 6차 모임 ( 7차 과제 발표 )
+
+* [7차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/7차-발표자료.md) - 발표자료
+  * 주제: Swift Syntax - Struct, Class, String
+
+</br>
