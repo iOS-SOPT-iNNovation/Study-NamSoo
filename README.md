@@ -52,6 +52,6 @@
 ## 2020.03.21 토 - 7차 모임 ( 8차 과제 발표 )
 
 * [8차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/8차-발표자료.md) - 발표자료
-  * 주제: 
+  * 주제: Dispatch Queue, Operation Queue
 
 </br>
