@@ -55,3 +55,13 @@
   * 주제: Dispatch Queue, Operation Queue
 
 </br>
+
+## 2020.03.28 토 - 8차 모임 ( 9차 과제 발표 )
+
+* [9차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/9차-발표자료.md) - 발표자료
+  * 주제: SwiftEvent
+    * Delegate
+    * Notification
+    * KVO
+
+</br>
