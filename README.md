@@ -72,3 +72,10 @@
   * 주제: XMLParser
 
 </br>
+
+## 2020.04.11 토 - 10차 모임 ( 11차 과제 발표 )
+
+* [10차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/10차-발표자료.md) - 발표자료
+  * 주제: MultiPart 통신
+
+</br>
