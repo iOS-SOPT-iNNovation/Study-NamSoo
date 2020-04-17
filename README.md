@@ -79,3 +79,10 @@
   * 주제: MultiPart 통신
 
 </br>
+
+## 2020.04.18 토 - 11차 모임 ( 12차 과제 발표 )
+
+* [12차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/12차-발표자료.md) - 발표자료
+  * 주제: Apple Login
+
+</br>
