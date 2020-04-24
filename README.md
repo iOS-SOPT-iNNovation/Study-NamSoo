@@ -86,3 +86,10 @@
   * 주제: Apple Login
 
 </br>
+
+## 2020.04.25 토 - 12차 모임 ( 13차 과제 발표 )
+
+* [13차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/13차-발표자료.md) - 발표자료
+  * 주제: Custom Transition VC
+
+</br>
