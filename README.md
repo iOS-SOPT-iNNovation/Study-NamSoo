@@ -102,3 +102,10 @@
   * 주제: Custom TabBar
 
 </br>
+
+## 2020.05.09 토 - ( 15차 과제 발표 )
+
+* [15차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/15차-발표자료.md) - 발표자료
+  * 주제: Carousel Effect
+
+</br>
