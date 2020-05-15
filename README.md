@@ -1,5 +1,8 @@
 # iOS스터디
 
+
+
+
 ## 2020.02.08 토 - 1차 모임 ( 1차, 2차 과제 발표 )
 
 * [1차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/01차-발표자료.md) - 짧은 세미나를 위한 발표자료
@@ -103,9 +106,17 @@
 
 </br>
 
-## 2020.05.09 토 - ( 15차 과제 발표 )
+## 2020.05.09 토 - ( 15차 과제 )
 
 * [15차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/15차-발표자료.md) - 발표자료
   * 주제: Carousel Effect
 
 </br>
+
+## 2020.05.16 토 - 14차 모임 ( 16차 과제 발표 )
+
+* [16차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/16차-발표자료.md) - 발표자료
+  * 주제: JavaScriptCore
+
+</br>
+
