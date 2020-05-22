@@ -120,3 +120,10 @@
 
 </br>
 
+## 2020.05.23 토 - 15차 모임 ( 17차 과제 발표 )
+
+* [17차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/17차-발표자료.md) - 발표자료
+  * 주제: Coordinator
+
+</br>
+
