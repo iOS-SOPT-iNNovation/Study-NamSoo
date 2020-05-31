@@ -127,3 +127,12 @@
 
 </br>
 
+## 2020.05.31 일 - 16차 모임 ( 18차 과제 발표 )
+
+* [18차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/18차-발표자료.md) - 발표자료
+  * 주제: RxSwift Operator
+
+</br>
+
+
+
