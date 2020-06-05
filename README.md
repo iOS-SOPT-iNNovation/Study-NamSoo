@@ -134,5 +134,10 @@
 
 </br>
 
+## 2020.06.06 일 - 17차 모임 ( 19차 과제 발표 )
 
+* [19차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/19차-발표자료.md) - 발표자료
+  * 주제: RxSwift TableView
+
+</br>
 
