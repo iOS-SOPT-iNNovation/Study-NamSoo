@@ -141,3 +141,10 @@
 
 </br>
 
+## 2020.06.13 토 - 17차 모임 ( 20차 과제 발표 )
+
+* [20차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/20차-발표자료.md) - 발표자료
+  * 주제: CAEmitterLayer
+
+</br>
+
