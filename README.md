@@ -148,3 +148,10 @@
 
 </br>
 
+## 2020.06.27 토 - 18차 모임 ( 21차 과제 발표 )
+
+* [21차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/21차-발표자료.md) - 발표자료
+  * 주제: Observable, Subject, Relay
+
+</br>
+
