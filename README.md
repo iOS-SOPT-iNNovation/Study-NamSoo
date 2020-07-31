@@ -155,3 +155,10 @@
 
 </br>
 
+## 2020.07.31 금 - 22차 과제 발표 )
+
+* [22차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/22차-발표자료.md) - 발표자료
+  * 주제: Xcode 앱분리
+
+</br>
+
