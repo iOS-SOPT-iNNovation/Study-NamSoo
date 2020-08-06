@@ -162,3 +162,9 @@
 
 </br>
 
+## 2020.08.07 금 - 23차 과제 발표 )
+
+* [23차 과제](https://github.com/iOS-SOPT-iNNovation/Study-NamSoo/blob/master/23차-발표자료.md) - 발표자료
+  * 주제: function inout parameter
+
+</br>
