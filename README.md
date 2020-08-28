@@ -183,3 +183,10 @@
 
 </br>
 
+## 2020.08.28 금 - ( 26차 과제 발표 )
+
+* 주제: Setting Bundle
+* 링크: [블로그](https://nsios.tistory.com/61)
+
+</br>
+
