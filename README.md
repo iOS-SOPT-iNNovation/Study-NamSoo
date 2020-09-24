@@ -210,3 +210,11 @@
 * 링크: [블로그](https://nsios.tistory.com/64)
 
 </br>
+
+## 2020.09.25 금 - ( 30차 과제 발표 )
+
+* 주제: Trie를 이용한 자동완성구현
+* 링크: [블로그](https://nsios.tistory.com/65)
+
+</br>
+
