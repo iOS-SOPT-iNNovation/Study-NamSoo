@@ -225,3 +225,10 @@
 
 </br>
 
+## 2020.10.16 금 - ( 32차 과제 발표 )
+
+* 주제: View Life Cycle UI업데이트 함수
+* 링크: [블로그](https://nsios.tistory.com/68)
+
+</br>
+
